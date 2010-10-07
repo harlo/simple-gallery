@@ -1,0 +1,14 @@
+this is pretty simple.  a good designer could make it even better!  feel free to modify the stylesheets and the layout as needed.
+
+NOTE!
+-in order for this to work, the individual albums must be placed in the "photos" folder, and must be named sequentially like so:
+	album1
+	album2
+	album3
+	... and so on...
+
+-also there must be an image in each album labled "thumbnail.jpg", which (you guessed it) serves as the thumbnail image for the album itself.
+
+that's it... let me know if you need any other assistance!
+
+harlo

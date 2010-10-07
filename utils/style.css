@@ -1,0 +1,42 @@
+body {
+	margin:10px;
+	padding:0;
+	background-color:#00009a;
+	color:#fff;
+	font-family:geneva;
+}
+
+table td {
+	border:5px solid #000;
+}
+
+#albumThumbnails, #photoThumbnails, #photoFrame {
+	padding:0;
+	margin:4px;
+}
+
+#albumThumbnails {
+	height:320px;
+}
+
+#photoFrame {
+	height:500px;
+	border:1px solid #fff;
+}
+
+#photoThumbnails {
+	height:85px;
+}
+
+#thumbnailRack {
+	position:relative;
+	width:auto;
+	border:1px solid #fff;
+	float:right;
+	
+}
+
+.photoThumbImage {
+	margin:4px 2px;
+}
+
